@@ -14,10 +14,9 @@ You can finally see the artwork of the song that is currently playing.
 - Standalone: Runs completely in the background (no dock icon)
 
 <p align="center">
-  <img align="center" width="200" src="/images/img_03.png" alt="Screenshot 3" style="border-radius:20pxmargin-right: 10px;">
-  <img align="center" width="200" src="/images/img_02.png" alt="Screenshot 2" style="border-radius:20px; margin-right: 20px;">
-  <img align="center" width="200" src="/images/img_07.png" alt="Screenshot 7" style="border-radius:20px; margin-right: 10px;">
-  <img align="center" width="200" src="/images/img_08.png" alt="Screenshot 8" style="border-radius:20px">
+  <img align="center" width="200" src="/images/img_07.png" alt="Screenshot 3" style="border-radius:20px; margin-right: 10px;">
+  <img src="assets/demo.gif" alt="App Preview" width="600" style="border-radius: 12px; margin-right: 10px;" />
+  <img align="center" width="200" src="/images/img_02.png" alt="Screenshot 8" style="border-radius:20px">
 </p>
 
 ### Installation:
