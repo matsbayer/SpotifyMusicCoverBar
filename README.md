@@ -1,9 +1,16 @@
 # SpotifyMusicCoverBar
 
+<img align="right" width="200" src="/images/img_01.png" alt="small icon in bar" style="border-radius:20px">
+
+
 A lightweight macOS app to control Spotify directly directly from the menu bar.
 You can finally see the artwork of the song that is currently playing.
 
-###Features:
+<img align="right" width="200" src="/images/img_03.png" alt="Avatar" style="border-radius:20px">
+<img align="right" width="200" src="/images/img_02.png" alt="Avatar" style="border-radius:20px">
+
+
+### Features:
 - Mini Player: Displays current track, artist, and live spinning vinyl cover
 - Progress Bar: Real-time track duration display
 - Playback Controls: Play, pause, skip forward, and skip backward
