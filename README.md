@@ -4,7 +4,7 @@ A lightweight macOS app to control Spotify directly directly from the menu bar.
 You can finally see the artwork of the song that is currently playing.
 
 <p align="center">
-  <img width="500" src="/images/img_01.png" alt="small icon in bar">
+  <img width="500" src="/media/img_01.png" alt="small icon in bar">
 </p>
 
 ### Features:
