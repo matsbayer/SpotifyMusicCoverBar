@@ -1,4 +1,4 @@
-# SpotifyMusicCoverBar
+# 🎧 SpotifyMusicCoverBar 🎵
 
 A lightweight macOS app to control Spotify directly directly from the menu bar.
 You can finally see the artwork of the song that is currently playing.
