@@ -16,7 +16,7 @@ You can finally see the artwork of the song that is currently playing.
 
 <p align="center">
   <img width="200" src="/media/img_07.png" alt="Screenshot 7" style="margin-right: 10px;">
-  <img width="200" src="/media/demo_03.gif" alt="animation 3"  style="margin-right: 10px;" />
+  <img width="200" src="/media/demo_02.gif" alt="animation 3"  style="margin-right: 10px;" />
   <img width="200" src="/media/img_02.png" alt="Screenshot 2">
 </p>
 
