@@ -13,6 +13,7 @@ You can finally see the artwork of the song that is currently playing.
 - Playback Controls: Play, pause, skip forward, and skip backward
 - Standalone: Runs completely in the background (no dock icon)
 
+
 <p align="center">
   <img width="200" src="/media/img_07.png" alt="Screenshot 7" style="margin-right: 10px;">
   <img width="200" src="/media/demo_03.gif" alt="animation 3"  style="margin-right: 10px;" />
